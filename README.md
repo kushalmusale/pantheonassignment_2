@@ -13,6 +13,10 @@ ex. for Bengaluru https://api.darksky.net/forecast/6508dfe23c140cf146a5ad4c2b233
 ###### 3.com.pantheon.api.util -> package contains “ApiUtil.java” class to check field from JSON object and data size of JSON array
 ###### 4. com.pantheon.api.client -> package contains “ApiClinet.java” class contains method to send request 
 ###### 5. com.pantheon.api.test -> package contains “GetAPITest.java” to assert field from JSON object and data size of JSON array
+###### 6.	Resources: To store testing.xml file
+###### 7.	Reports: To store screenshots
+###### 8.	Logs: To store log files
+###### 9.	Maven configuration file -> pom.xml to specify all the dependencies and integrate testing.xml config file 
 
 
 ***
